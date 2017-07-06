@@ -1,4 +1,4 @@
-#設定方法
+# 設定方法
 
 ```
 $ cd ~/projects
@@ -9,12 +9,20 @@ $ bundle exec rake db:create
 $ bundle exec rake db:migrate
 $ bundle exec rake db:seed
 ```
-#問題
-##エラーを解決し、以下の状態にしてください
+# 問題
+## エラーを解決し、以下の状態にしてください
+
 ・ビューの表示がされること
+
 ・ログインができること
+
 　　アカウントは下記を使用する
+
 　　　　　　email: karimen@karimen.com
+
 　　　　　　password: 12345678
+
 ・ログアウトができること
+
 ・ツイートの新規投稿画面が表示できること
+
