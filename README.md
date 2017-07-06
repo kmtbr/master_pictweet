@@ -2,7 +2,7 @@
 
 ```
 $ cd ~/projects
-$ git clone https://github.com/mkoma414/master_pictweet.git
+$ git clone https://github.com/pre-mentor/master_pictweet.git
 $ cd master_pictweet
 $ bundle install
 $ bundle exec rake db:create
